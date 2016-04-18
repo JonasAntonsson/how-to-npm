@@ -1,0 +1,14 @@
+{
+  "name": "@jonasantonsson/how-to-npm",
+  "version": "1.0.0",
+  "description": "How to npm tutorial package",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jonas Antonsson",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
